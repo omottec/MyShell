@@ -1,0 +1,4 @@
+John    30  Boy
+Sue     28  Cirl
+Wang    25  Boy
+Xu      23  Girl
