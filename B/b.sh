@@ -12,5 +12,6 @@
 
 myPath=`dirname ${BASH_SOURCE[0]}`
 echo $myPath
+echo `dirname ${BASH_SOURCE}`
 source ${myPath}/C/c.sh
 echo $myPath

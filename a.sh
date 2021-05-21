@@ -1,2 +1,2 @@
 #!/bin/bash
-/Users/qbb/Desktop/B/b.sh
+/Users/qbb/GitHub/MyShell/B/b.sh
